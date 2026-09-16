@@ -20,7 +20,7 @@ The licenses contained in this repository may apply to different parts of the Ma
 
 📚 Browse the complete licensing suite
 
-"→ Open the "LICENSES/" directory" (./LICENSES/)
+"[→ Open the "LICENSES/" directory" (./LICENSES/)](https://github.com/kridayscienceandtechnology/MaanyaOS-Licenses)
 
 The licensing suite includes documentation covering areas such as:
 
@@ -52,9 +52,9 @@ The following documents are particularly important when evaluating the MaanyaOS 
 - "Package Management, System Update & Administration License" (./LICENSES/MAANYAOS-PACKAGE-MANAGEMENT.md)
 - "Package Manager Interoperability License" (./LICENSES/MAANYAOS-PACKAGE-MANAGER-INTEROPERABILITY.md)
 - "Security, Cryptography, Data Protection & Security Research License" (./LICENSES/MAANYAOS-SECURITY.md)
-- "Cryptographic Storage, TPM & Privacy Architecture License" (./LICENSES/MAANYAOS-CRYPTOGRAPHIC-STORAGE-TPM-PRIVACY.md)
+- "Cryptographic Storage, TPM & Privacy Architecture License" (https://github.com/kridayscienceandtechnology/MaanyaOS-Licenses/blob/main/Cryptographic%20security%20EULA.md)
 - "Third-Party Notices" (./LICENSES/THIRD-PARTY-NOTICES.md)
-- "Component License Map" (./LICENSES/COMPONENT-LICENSE-MAP.md)
+- "Component License Map" ()
 
 Additional licenses may apply to specific MaanyaOS components and future releases.
 
